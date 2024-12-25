@@ -6,6 +6,6 @@
 
 # [[2024-04-03.pdf]]
 ![[Pasted image 20241119172229.png]]
-
+![[Pasted image 20241225105534.png]]
 # [[2024-08-22.pdf]]
 ![[Pasted image 20241119172253.png]]

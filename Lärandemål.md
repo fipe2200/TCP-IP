@@ -1,3 +1,6 @@
+Fokus ligger på protokoll, routing, transportlager, QoS, köteori och trådlösa nätverk
+
+
 - Analysera, applicera och utvärdera TCP/IP-familjens protokoll  
 
 - förklara och utvärdera routingprotokoll som används för unicast och multicast på Internet
@@ -27,12 +30,10 @@
     - 1.5 Protokollager och deras tjänstemodeller
     - 1.7 Historia om datornätverk och Internet
 - Kapitel 3: Transport Layer
-    
     - 3.3 UDP: Ett anslutningslöst transportlager
     - 3.5 TCP: Ett anslutningsorienterat transportlager
     - 3.6 Principer för trafikstockningshantering
 - Kapitel 4: Network Layer – Data Plane
-    
     - 4.3 Internet Protocol (IP): IPv4, IPv6, och adressering
 
 
@@ -60,18 +61,16 @@
 4. Konstruera och utvärdera ett enklare nätverk
 
 - Kapitel 1: Computer Networks and the Internet
-    
     - 1.2 Nätverkets kant och dess komponenter
     - 1.3 Nätverkskärnan
 - Kapitel 6: The Link Layer and LANs
-    
     - 6.4 Switched Local Area Networks
     - 6.5 Virtuella LAN och MPLS
 
 
 
 5. Förklara och tillämpa principerna för köteori relaterat till QoS och switching
-
+- Kapitel 6: Länklagret
 - Kapitel 4: Network Layer – Data Plane
     - 4.2.5 Paketplanering (Packet Scheduling)
     - 4.3 QoS och trafikhantering

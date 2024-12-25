@@ -7,6 +7,7 @@
 # [[2024-04-03.pdf]]
 ![[Pasted image 20241119172045.png]]
 ![[Pasted image 20241119172100.png]]
-
+![[Pasted image 20241225105303.png]]
+2  / 3 poäng
 # [[2024-08-22.pdf]]
 ![[Pasted image 20241119172125.png]]
