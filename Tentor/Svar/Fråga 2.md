@@ -9,6 +9,7 @@
 ![[Pasted image 20241119170922.png]]
 Paging:
 - Paging is used by example a base station to detect the devices in its area by broadcasting massages
+
 Handoff:
 - Handoffs are used when there is a need to switch base station could be that the signal from another has become much stronger then the current
 

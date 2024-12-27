@@ -27,8 +27,7 @@
 
 # [[2024-08-22.pdf]]
 ![[Pasted image 20241119170555.png]]
-- Error detection and error correction
-	   is fundamental for:
+- Error detection and error correction is fundamental for:
 		  - Data integrity
 		  - Due to unreliable media communication detection and correction is crutial.
 		  - Don't affect performance and latency.
