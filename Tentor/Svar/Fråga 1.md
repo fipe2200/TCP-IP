@@ -36,4 +36,5 @@
 		 - Check sum
 		 
 - false
-- delvis rätt
+- A switch connects multiple devices to a network
+  A router connects multiple switches, and their respective networks, to form an even larger network.
