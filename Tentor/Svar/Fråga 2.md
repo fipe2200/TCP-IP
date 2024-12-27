@@ -24,6 +24,3 @@ Handoff:
 
 Svarades på fråga 1 
 [[Fråga 1#2023-01-10.pdf]]
-
-
-hej
