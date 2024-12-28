@@ -8,6 +8,8 @@ to arrive doesn’t, it lowers the bandwidth,
 increases latency and decreases the  
 reliability.  
 
+#FABS
+
 **To avoid this TCP uses these techniques:**  
 
 - **Flow control:** Uses a window size to send packets with, this window size is determined  by the receiver. Sender sends packet with a determined window size and waits for a updated window size from the receiver.
