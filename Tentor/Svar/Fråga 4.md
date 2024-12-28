@@ -8,7 +8,7 @@ to arrive doesn’t, it lowers the bandwidth,
 increases latency and decreases the  
 reliability.  
 
-**FABS**
+**F A B S**
 
 **To avoid this TCP uses these techniques:**  
 
