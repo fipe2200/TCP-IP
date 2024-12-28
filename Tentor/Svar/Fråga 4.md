@@ -8,7 +8,7 @@ to arrive doesn’t, it lowers the bandwidth,
 increases latency and decreases the  
 reliability.  
 
-#FABS
+**FABS**
 
 **To avoid this TCP uses these techniques:**  
 
@@ -20,7 +20,7 @@ reliability.
 
 - **“Slow Start”:** Sender starts by sending small amount of data and then increase it untill congestion occurs, it then reduces amount Sent.
 
-**FABS**
+
 # [[2023-08-25.pdf]]
 ![[Pasted image 20241119171212.png]]
 
