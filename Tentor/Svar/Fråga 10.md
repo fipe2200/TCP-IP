@@ -9,3 +9,4 @@
 ![[Pasted image 20241225105534.png]]
 # [[2024-08-22.pdf]]
 ![[Pasted image 20241119172253.png]]
+![[0F6E30AE-D815-4899-87EC-721F6D5AADD6_4_5005_c.jpeg]]
