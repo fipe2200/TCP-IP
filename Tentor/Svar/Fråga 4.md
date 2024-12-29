@@ -8,6 +8,8 @@ to arrive doesn’t, it lowers the bandwidth,
 increases latency and decreases the  
 reliability.  
 
+**F A B S**
+
 **To avoid this TCP uses these techniques:**  
 
 - **Flow control:** Uses a window size to send packets with, this window size is determined  by the receiver. Sender sends packet with a determined window size and waits for a updated window size from the receiver.
@@ -18,7 +20,7 @@ reliability.
 
 - **“Slow Start”:** Sender starts by sending small amount of data and then increase it untill congestion occurs, it then reduces amount Sent.
 
-**FABS**
+
 # [[2023-08-25.pdf]]
 ![[Pasted image 20241119171212.png]]
 
