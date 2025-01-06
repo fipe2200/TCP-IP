@@ -25,12 +25,12 @@
 
 Yes, reliable data transfer over UDP is possible by implementing reliability at the application layer. This is achieved using techniques like:
 
+C A S E
+
 1. **Custom Protocols**: Protocols like QUIC provide reliability on top of UDP.
 2. **Acknowledgments and Retransmissions**: The receiver confirms packet delivery, and lost packets are resent.
 3. **Sequence Numbers**: Ensure packets are received and reordered correctly.
 4. **Error Detection**: Checksums detect corruption, prompting retransmission.
-
-C A S E
 
 ---
 
