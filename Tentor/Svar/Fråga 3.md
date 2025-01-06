@@ -22,5 +22,4 @@
 ![[Pasted image 20241119171113.png]]
 - To easily recognize packets
 - To equaly divide resources
-
 *Sequence numbers* are introduced to ensure data order and identify duplicate packets, while *timers* are used to manage timeouts and retransmissions for unacknowledged packets.
