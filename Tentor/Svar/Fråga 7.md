@@ -10,7 +10,7 @@
 	
 	**Mechanisms**: Sender uses a counter for the amount of Ack’s it’s receiving. If the counter reaches a certain threshold it retransmits.
 
-- Congestion  
+- **Congestion**  
 	**Affects**: Reduced reliability, increased  
 	latency and risk for packet loss.  
 	
