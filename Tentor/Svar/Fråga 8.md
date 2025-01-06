@@ -9,7 +9,7 @@
 
 # [[2024-08-22.pdf]]
 ![[Pasted image 20241119171930.png]]
-![[Pasted image 20250106140839.png]]
+
+![[Selection_425.png]]
 Sida 613 i boken
-![[Pasted image 20250106140845.png]]
-Sida 615 i boken
+![[Selection_426.png]]Sida 615 i boken
