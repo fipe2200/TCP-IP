@@ -1,6 +1,7 @@
 # [[2023-01-10.pdf]]
 ![[Pasted image 20241119171008.png]]
 
+![[Pasted image 20250107123944.png]]
 # [[2023-08-25.pdf]]
 ![[Pasted image 20241119171027.png]]
 
