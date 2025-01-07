@@ -114,4 +114,3 @@ Fokus ligger på protokoll, routing, transportlager, QoS, köteori och trådlös
     - 7.3 WiFi: 802.11
     - 7.4 Mobila nätverk: 4G och 5G
     - 7.5 Principer för mobilitetshantering
-
